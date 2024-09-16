@@ -9,3 +9,4 @@ https://www.figma.com/proto/uw4XfcVW0olhm8I8Le2REn/prototype?node-id=0-1&t=er4Ca
 
 // Edit persiapan ukk yang dibutuhkan 
 https://docs.google.com/spreadsheets/d/1CUBDoyNHZey3lRzHbwLbDmvgZDwnDluE1DbQlIQq-8w/edit?usp=sharing
+
